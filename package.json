@@ -1,0 +1,22 @@
+{
+  "name": "shopping-hub",
+  "version": "1.0.0",
+  "description": "Online Shopping Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Washiswa/Shopping-Hub.git"
+  },
+  "author": "Washiswa Godfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Washiswa/Shopping-Hub/issues"
+  },
+  "homepage": "https://github.com/Washiswa/Shopping-Hub#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0"
+  }
+}
